@@ -1,6 +1,6 @@
 # Assignment
-Created a REST web service using Spring Boot to get rewards against each user.
-Created a demo service for getting data for the vouchers and credits.
+I have Created a REST web service using Spring Boot to get rewards against each user.
+Also created a demo service for getting data for the vouchers and credits and for calculating the rewards.
 
 To Run the Project:-
 
