@@ -1,6 +1,7 @@
 # Assignment
 I have Created a REST web service using Spring Boot to get rewards against each user.
-Also created a demo service for getting data for the vouchers and credits and for calculating the rewards.
+Also created a DataService for getting data for the vouchers and credits. 
+Created CalculationService for calculating the rewards by each user.
 
 To Run the Project:-
 
